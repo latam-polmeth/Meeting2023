@@ -2,12 +2,12 @@
 ---
 <img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
 
-# Latin American Political Methodology Meeting, 2021
+# Latin American Political Methodology Meeting, 2022
 
 
-Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on November 19-20, 2021 employing a hybrid format. The in-person section will be hosted by ITAM in Mexico City, but a limited number of attendees from all over the world will be able to join virtually. The event is sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
+The sixth Latin American Polmeth (LAPolMeth) meeting will take place on November 18-19, 2022 employing a hybrid format: online and on-site in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
 
-The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Jennifer Larson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
+The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Thad Dunning](http://www.thaddunning.com) (UC Berkeley) and [Vera Tröger](https://warwick.ac.uk/fac/soc/economics/staff/vetroeger/) (UHH and Warwick).
 
 
 ## Application process
