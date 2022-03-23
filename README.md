@@ -1,4 +1,6 @@
+<!---
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
+-->
 ---
 <img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
 
@@ -36,7 +38,7 @@ The poster session for graduate students will be held at lunchtime on Saturday, 
 All talks, posters and sessions will be held in English.
 
 ### Meeting location
-The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in UdeSA's [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
+The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
 
 ### Transportation from/to the airport
 Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires typically costs US$XXXX, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
@@ -46,7 +48,7 @@ The Recoleta and Palermo neighborhoods are great for walking and dining and are 
 
 If you prefer another alternative, the city is full of hotel and AirBnb options. 
 
-### Transportation in Mexico City
+### Transportation in Buenos Aires
 On Saturday, we will provide transportation to and from the XXXX and the Victoria campus for all conference members. There are plenty options for moving around the city. In addition to Uber and Cabify, you can buy a SUBE card (in any kiosk, lottery-ticket store, or subway station) and ride the bus or the metro.  
 
 <!---
