@@ -6,19 +6,17 @@
 
 # Latin American Political Methodology Meeting, 2022
 
-
-The sixth Latin American Polmeth (LAPolMeth) meeting will take place on November 18-19, 2022 employing a hybrid format: online and on-site in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
+The sixth Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 18-19, 2022 in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
 
 The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Thad Dunning](http://www.thaddunning.com) (UC Berkeley) and [Vera Tröger](https://warwick.ac.uk/fac/soc/economics/staff/vetroeger/) (UHH and Warwick).
 
 
 ## Application process
+The application process [will be open through June 3, 2022](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
 
-The application process [will be open through XXXX, 2022](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
+The organizing team will notify applicants of its decision on June 20, 2022. Applicants will then have the chance to register from June 20 through September 30, 2022. 
 
-The organizing team will notify applicants of its decision on XXXX, 2022. Applicants will then have the chance to register from XXXX through XXXX, 2022. 
-
-There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than XXXX, 2022.
+There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022.
 
 <!---
 ## Registrarion
@@ -29,7 +27,7 @@ The final version of the conference program is available [here](https://docs.goo
 -->
 
 ### Event format
-The event will feature parallel paper workshops, which will be restricted to registered participants. Participants may attend either personally or virtually. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than November XXXX, 2022. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
+The event will feature parallel paper workshops, which will be restricted to registered participants. Participants may attend either personally or virtually. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than November 5, 2022. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
 
 There will be a total of two keynote presentations at the end of each day. These will be open to the public.
 
@@ -38,18 +36,22 @@ The poster session for graduate students will be held at lunchtime on Saturday, 
 All talks, posters and sessions will be held in English.
 
 ### Meeting location
-The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
+The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. 
+
+<!---
+Registered participants who so desire may attend the event virtually. 
+-->
 
 ### Transportation from/to the airport
 Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires typically costs US$XXXX, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
 
 ### Lodging
-The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with XXXX, which is located in XXXX. There is a speacial rate for conference members; just let us know that you plan to reserve here and we'll send you the reservation code. In addition, we will provide transportation to and from this hotel and the Santa Teresa campus.
+The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta. There is a speacial rate for conference members; just let us know that you plan to reserve here and we'll send you the reservation code. 
 
 If you prefer another alternative, the city is full of hotel and AirBnb options. 
 
 ### Transportation in Buenos Aires
-On Saturday, we will provide transportation to and from the XXXX and the Victoria campus for all conference members. There are plenty options for moving around the city. In addition to Uber and Cabify, you can buy a SUBE card (in any kiosk, lottery-ticket store, or subway station) and ride the bus or the metro.  
+On Saturday, we will provide transportation to and from Loi Suites and the Victoria campus for all conference members. There are plenty options for moving around the city. In addition to Uber and Cabify, you can buy a SUBE card (in any kiosk or subway station) and ride the bus or the metro.  
 
 <!---
 Participants who reserve on another hotel can either walk to the Fiesta Inn Insurgentes Viaducto and take the bus, or take an Uber or a cab to the conference. Uber works perfectly in Mexico City. It is cheap, safe, can be paid through the regular app, and the city's large size ensures that there are always cars available. Taxis are also generally safe, but typically only accept cash.
