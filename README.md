@@ -58,12 +58,12 @@ Participants who reserve on another hotel can either walk to the Fiesta Inn Insu
 -->
 
 ### Organizing team
-- Germán Feierherd (UdeSA, Argentina)
-- Adrián Lucardi (ITAM, Mexico)
 - Lorena Barberia (Universidade de São Paulo, Brazil)
+- Germán Feierherd (UdeSA, Argentina)
 - Carmen Le Foulon (Centro de Estudios Públicos, Chile)
 - John Londregan (Princeton University, USA)
 - Santiago López-Cariboni (Universidad de la República, Uruguay)
+- Adrián Lucardi (ITAM, Mexico)
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 
