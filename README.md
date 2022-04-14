@@ -16,7 +16,7 @@ The application process [will be open through June 3, 2022](https://www.cambridg
 
 The organizing team will notify applicants of its decision on June 20, 2022. Applicants will then have the chance to register from June 20 through September 30, 2022. 
 
-There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022.
+There is a small registration fee (US$10 and US$20 for student and non-student SPM members; US$25 and US$50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022.
 
 <!---
 ## Registrarion
@@ -27,7 +27,7 @@ The final version of the conference program is available [here](https://docs.goo
 -->
 
 ### Event format
-The event will feature parallel paper workshops, which will be restricted to registered participants. Participants may attend either personally or virtually. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than November 5, 2022. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
+The event will feature parallel paper workshops, which will be restricted to registered participants. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than November 5, 2022. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
 
 There will be a total of two keynote presentations at the end of each day. These will be open to the public.
 
@@ -43,10 +43,10 @@ Registered participants who so desire may attend the event virtually.
 -->
 
 ### Transportation from/to the airport
-Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires typically costs US$XXXX, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
+Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires typically costs US$20, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
 
 ### Lodging
-The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta. There is a speacial rate for conference members; just let us know that you plan to reserve here and we'll send you the reservation code. 
+The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites Recoleta](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta neighborhood. There is a speacial rate for conference members; just let us know that you plan to reserve here and we'll send you the reservation code. 
 
 If you prefer another alternative, the city is full of hotel and AirBnb options. 
 
