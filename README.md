@@ -12,7 +12,7 @@ The meeting will feature a limited number of paper workshops, a poster session f
 
 
 ## Application process
-The application process [will be open through June 3, 2022](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
+The application process [will be open through June 3, 2022](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 250 words. Graduate students must indicate their intention to participate in the poster session.
 
 The organizing team will notify applicants of its decision on June 20, 2022. Applicants will then have the chance to register from June 20 through September 30, 2022. 
 
