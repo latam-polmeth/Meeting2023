@@ -6,7 +6,7 @@
 
 # Latin American Political Methodology Meeting, 2022
 
-The sixth Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 18-19, 2022 in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
+The sixth Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 18-19, 2022 in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. Participants will have the option to participate in person or online. 
 
 The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Thad Dunning](http://www.thaddunning.com) (UC Berkeley) and [Vera Tröger](https://warwick.ac.uk/fac/soc/economics/staff/vetroeger/) (UHH and Warwick).
 
@@ -36,17 +36,13 @@ The poster session for graduate students will be held at lunchtime on Saturday, 
 All talks, posters and sessions will be held in English.
 
 ### Meeting location
-The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. 
-
-<!---
-Registered participants who so desire may attend the event virtually. 
--->
+The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
 
 ### Transportation from/to the airport
-Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires typically costs US$20, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
+Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires costs around US$20. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
 
 ### Lodging
-The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites Recoleta](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta neighborhood. There is a speacial rate for conference members; just let us know that you plan to reserve here and we'll send you the reservation code. 
+The Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites Recoleta](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta neighborhood. Just let us know that you plan to reserve here and we'll send you the reservation code. 
 
 If you prefer another alternative, the city is full of hotel and AirBnb options. 
 
