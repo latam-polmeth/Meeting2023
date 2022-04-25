@@ -8,7 +8,7 @@
 
 The sixth Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 18-19, 2022 in Buenos Aires, Argentina. The meeting is hosted by Universidad de San Andres (UdeSA) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. Participants will have the option to participate in person or online. 
 
-The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Thad Dunning](http://www.thaddunning.com) (UC Berkeley) and [Vera Tröger](https://warwick.ac.uk/fac/soc/economics/staff/vetroeger/) (UHH).
+The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Thad Dunning](http://www.thaddunning.com) (UC Berkeley) and [Vera Tröger](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/troeger/team/troeger-vera.html) (UHH).
 
 
 ## Application process
