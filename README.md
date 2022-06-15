@@ -52,9 +52,10 @@ Recoleta and Palermo neighborhoods are great for walking and dining and are clos
 
 <!--- 
 UdeSA has arranged a special rate with [Loi Suites Recoleta](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta. Just let us know that you plan to reserve here and we'll send you the reservation code. 
--->
 
 If you prefer another alternative, the city is full of hotel and AirBnb options. 
+-->
+
 
 ### Transportation in Buenos Aires
 On Saturday, we will provide transportation to and from Loi Suites and the Victoria campus for all conference members. There are plenty options for moving around the city. In addition to Uber and Cabify, you can buy a SUBE card (in any kiosk or subway station) and ride the bus or the metro.  
