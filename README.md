@@ -16,7 +16,9 @@ The application process [will be open through June 10, 2022](https://www.cambrid
 
 The organizing team will notify applicants of its decision on June 20, 2022. Applicants will then have the chance to register from June 20 through September 30, 2022. 
 
-There is a small registration fee (US$10 and US$20 for student and non-student SPM members; US$25 and US$50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022. 
+There is a small registration fee (US$10 and US$20 for student and non-student SPM members; US$25 and US$50 for non-members, respectively). Registration is available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/checkout/auth?journey=event-register&ref=%2Fcore%2Fmembership%2Fspm%2Fcheckout%2Fauth%3Fjourney%3Devent-register).
+
+To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022. 
 
 <!---
 Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
