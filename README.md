@@ -50,9 +50,7 @@ The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba c
 Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires costs around US$20. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
 
 ### Lodging
-Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. UdeSA has arranged a special rate with [Loi Suites Recoleta](https://www.loisuites.com.ar/es/hotel/loi-suites-recoleta-hotel), which is located in Recoleta. To get the special rate, please email Daiana Pfeiffer (dpfeiffer@loisuites.com.ar). 
-
-If you prefer another alternative, the city is full of hotel and AirBnb options. 
+Recoleta and Palermo neighborhoods are great for walking and dining and are close to the Riobamba campus. The city is full of hotel and AirBnb options. 
 
 
 ### Transportation in Buenos Aires
