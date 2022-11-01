@@ -18,17 +18,18 @@ The organizing team will notify applicants of its decision on June 20, 2022. App
 
 There is a small registration fee (US$10 and US$20 for student and non-student SPM members; US$25 and US$50 for non-members, respectively). Registration is available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/checkout/auth?journey=event-register&ref=%2Fcore%2Fmembership%2Fspm%2Fcheckout%2Fauth%3Fjourney%3Devent-register).
 
-To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 5, 2022. 
+To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 7, 2022. 
 
 <!---
 Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
 
 ## Registrarion
 Registration for this event is now closed.
+-->
 
 ## Program
-The final version of the conference program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
--->
+The final version of the conference program is available [here](https://docs.google.com/document/d/14xIpKZklqD48rGwLxKN_lphTy-7m07xLmvZnTcwNYtw/edit?usp=sharing).
+
 
 ## Event format
 The event will feature parallel paper workshops, which will be restricted to registered participants. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. 
