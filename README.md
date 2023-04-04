@@ -73,4 +73,4 @@ Participants who reserve on another hotel can either walk to the Fiesta Inn Insu
 
 
 ### Sponsors
-<img src="Logo_ufpe.jpg" alt="UFPE" height="50" hspace="10"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50" hspace="10"> <img src="logo_Princeton.jpg" alt="Princeton University" height="50" hspace="10"> <img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50" hspace="10">
+<img src="Logo-ufpe.jpg" alt="UFPE" height="50" hspace="10"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50" hspace="10"> <img src="logo_Princeton.jpg" alt="Princeton University" height="50" hspace="10"> <img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50" hspace="10">
