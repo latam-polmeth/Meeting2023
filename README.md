@@ -61,6 +61,8 @@ Participants who reserve on another hotel can either walk to the Fiesta Inn Insu
 -->
 
 ### Organizing team
+- Gabriela Tarouco (UFPE)
+- Nara Pavão (UFPE)
 - Lorena Barberia (Universidade de São Paulo, Brazil)
 - Germán Feierherd (UdeSA, Argentina)
 - Carmen Le Foulon (Centro de Estudios Públicos, Chile)
