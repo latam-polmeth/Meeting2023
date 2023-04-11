@@ -6,7 +6,7 @@
 
 # Latin American Political Methodology Meeting, 2023
 
-The seventh Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 17-19, 2023 in Recife, Brazil. The meeting is hosted by Universidade Federal de Pernambuco (UFPE) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
+The seventh Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 17-18, 2023 in Recife, Brazil. The meeting is hosted by Universidade Federal de Pernambuco (UFPE) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
 
 The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists ‪Molly Offer-Westort (https://mollyow.github.io/) (Chicago University) and speaker2 (website) (university). Participants will have the option to participate in person or online. 
 
