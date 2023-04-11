@@ -39,12 +39,12 @@ To enable all participants to engage in productive conversation, authors are exp
 
 There will be a total of two keynote presentations at the end of each day. These will be open to the public.
 
-The poster session for graduate students will be held at lunchtime on Saturday, November 19.
+The poster session for graduate students will be held at lunchtime on Saturday, November 18.
 
 All talks, posters and sessions will be held in English. Attendees will have the option to participate virtually or in person. 
 
 ## Logistics
-The meeting will be held at UdeSA. On Friday 18, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
+The meeting will be held at UFPE, Recife, Brazil. On Friday 17, we will meet in the [Riobamba campus](https://goo.gl/maps/aLAzXUTido7fe1ix8), in downtown Buenos Aires. On Saturday 19, we will meet in the [Victoria campus](https://goo.gl/maps/iE9dp2M3K9p2MeKYA), in the outskirts of the city. Registered participants who so desire may attend the event virtually. 
 
 ### Transportation from/to the airport
 Uber and Cabify operate in Buenos Aires. Buenos Aires international airport, Ezeiza, is located 30km away from the city. A trip to and from the airport to downtown Buenos Aires costs around US$20. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. 
