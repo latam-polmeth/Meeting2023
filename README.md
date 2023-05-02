@@ -45,7 +45,6 @@ All talks, posters and sessions will be held in English. Attendees will have the
 
 ## Details on Logistics, Local Transportation and Lodging will be provided to participants following acceptance notifications.
 
--->
 
 ### Organizing team
 - Gabriela Tarouco (UFPE)
