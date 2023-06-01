@@ -8,7 +8,7 @@
 
 The seventh Latin American Polmeth (LAPolMeth) meeting will take place on-site on November 17-18th, 2023 in Recife, Brazil. The meeting is hosted by Universidade Federal de Pernambuco (UFPE) and sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
 
-The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologist [‪Molly Offer-Westort](https://mollyow.github.io/) (University of Chicago). A second keynote speaker will be confirmed shortly. Participants will have the option to participate in person or online. 
+The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologist [‪Molly Offer-Westort](https://mollyow.github.io/) (University of Chicago) and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt University). Participants will have the option to participate in person or online. 
 
 ## Application process
 The application process [will be open from May 2nd to June 16th, 2023](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
