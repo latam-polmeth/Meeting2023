@@ -13,7 +13,7 @@ The meeting will feature a limited number of paper workshops, a poster session f
 ## Application process
 The application process [will be open from June 1st to July 30st, 2023](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
 
-The organizing team will notify applicants of its decision on August 10, 2023. Applicants will then have the chance to register from August 15th through October 13th, 2023. 
+The organizing team will notify applicants of its decision on August 10, 2023. Applicants will then have the chance to register from July 17th through October 13th, 2023. 
 
 There is a small registration fee of US$10 and US$20 for student and non-student SPM members and of US$25 and US$50 for non-members, respectively. Registration is available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/conferences).
 
