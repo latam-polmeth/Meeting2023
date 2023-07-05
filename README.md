@@ -59,4 +59,4 @@ All talks, posters and sessions will be held in English. Attendees will have the
 
 
 ### Sponsors
-<img src="Logo-ufpe.jpg" alt="UFPE" height="70" hspace="10"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50" hspace="10"> <img src="logo_Princeton.jpg" alt="Princeton University" height="50" hspace="10"> <img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50" hspace="10">
+<img src="logo_ufpe.png" alt="UFPE" height="70" hspace="10"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50" hspace="10"> <img src="logo_Princeton.jpg" alt="Princeton University" height="50" hspace="10"> <img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50" hspace="10">
