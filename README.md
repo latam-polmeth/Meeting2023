@@ -62,7 +62,7 @@ Using Taxis:
 - Payment Methods: Check with the driver about the accepted payment methods. In Brazil, it's common to pay in cash, but some taxis also accept credit cards. Confirm this beforehand.
 - Language Barrier: While some taxi drivers may speak English, it's helpful to have your destination address written down or saved on your phone in Portuguese to ensure a smooth ride.
 
-Using Uber
+Using Uber:
 - Recife's Guararapes-Gilberto Freyre International Airport offers free Wi-Fi for travelers. Connect to the airport's Wi-Fi network to request an Uber. 
 - We recommend that participants use Uber VIP or Comfort options to ensure safer and well-maintained vehicles.
 
