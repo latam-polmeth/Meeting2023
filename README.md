@@ -92,10 +92,8 @@ Special Prices (please mention that you are a guest of Departamento de Ciência 
 - Olinda (Alto da Sé)
 - Francisco Brennand museum 
 - Ricardo Brennand castle  
-- Beaches: 
---- Boa Viagem: the lapolmeth meeting will take place in Boa Viagem beach. While the beach is beautiful and inviting, it's also known for occasional shark sightings and attacks. For your safety, avoid swimming there.
-
---- Other beaches nearby: Paiva, Porto de Galinhas, Maracaípe, Serrambi e Carneiros. 
+- Boa Viagem Beach: the lapolmeth meeting will take place in Boa Viagem beach. While the beach is beautiful and inviting, it's also known for occasional shark sightings and attacks. For your safety, avoid swimming there.
+- Other beaches nearby: Paiva, Porto de Galinhas, Maracaípe, Serrambi e Carneiros. 
 
 ### Saturday night dinner 
 - [Entre amigos praia](https://www.instagram.com/praiaentreamigos/)
