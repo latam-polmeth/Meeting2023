@@ -11,9 +11,9 @@ The seventh Latin American Polmeth (LAPolMeth) meeting will take place on-site o
 The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologist [‪Molly Offer-Westort](https://mollyow.github.io/) (University of Chicago) and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt University). Participants will have the option to participate in person or online. 
 
 ## Application process
-The application process [will be open from June 1st to November 10th, 2023](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
+The application process [will be open from June 1st to November 3rd, 2023](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
 
-The organizing team will notify applicants of its decision on August 15, 2023. Applicants will then have the chance to register from August 15th through November 10th, 2023. 
+The organizing team will notify applicants of its decision on August 15, 2023. Applicants will then have the chance to register from August 15th through November 3rd, 2023. 
 
 There is a small registration fee of US$10 and US$20 for student and non-student SPM members and of US$25 and US$50 for non-members, respectively. Registration is available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/conferences).
 
