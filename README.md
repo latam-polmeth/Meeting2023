@@ -43,7 +43,7 @@ The poster session for graduate students will be held at lunchtime on Saturday, 
 
 All talks, posters and sessions will be held in English. Attendees will have the option to participate virtually or in person. 
 
-## Logistics, Local Transportation and Lodging 
+## Logistics, Local Transportation and Lodging, and Other Information 
 
 ### Information about visas: 
 
@@ -98,6 +98,34 @@ Special Prices (please mention that you are a guest of Departamento de Ciência 
 ### Saturday night dinner 
 - [Entre amigos praia](https://www.instagram.com/praiaentreamigos/)
 - [Parraxaxá](https://www.instagram.com/parraxaxa/)
+
+### Posters 
+
+If you could not bring your poster with you, there are some printing shops near the event's location: 
+“Guymar gráfica digital” - Located on the same street as the "Mar Hotel," just two blocks away. 
+“MicroArt” - Located on the second floor of Recife Shopping Mall. An Uber is recommended to get there.
+
+
+### Currency Exchange Offices
+
+Recife’s international airport has an official exchange office called “Europa Câmbio”;
+If you could not use the airport’s exchange office, every mall has one inside. You can get more information clicking here.
+
+
+### Safety Instructions and Other Advise
+
+To ensure your well-being during your stay, here are some tips on how to avoid issues during your trip:
+- Do not expose your phone in the street for too long, especially when there are few people around.
+- Double check the uber driver’s profile photo during a trip.
+-  Useful phone numbers:
+    - Police: 190
+    - SAMU (medical emergencies): 192
+    - Fire Department: 193
+    - Tourist Police Station: +55 (81) 3322-4867 
+
+### Weather
+In November, the average minimum temperature in Recife is 25°C, and the maximum is 31°C. Therefore, it is highly recommended to stay well-hydrated and to use sunscreen during this period. 
+
 
 ### Organizing team
 - Gabriela Tarouco (UFPE)
